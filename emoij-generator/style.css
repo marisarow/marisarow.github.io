@@ -1,0 +1,24 @@
+*{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: lawngreen;
+    height: auto;
+    width: auto;
+}
+#emojiDisplay {
+    top: %;
+    position: absolute;
+   font-size: 200px;
+}
+
+.button {
+    position: absolute;
+    background-color: blue;
+    border-radius: 50%;
+    color: white;
+    font-size: 70px;
+    padding: 30px;
+    transform: rotate(90deg);
+}

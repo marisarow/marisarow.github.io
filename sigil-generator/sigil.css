@@ -1,0 +1,24 @@
+*{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: auto;
+    width: auto;
+}
+
+.spotlight {
+    max-width: 600px;
+    max-width: 600px;
+    border-radius: 50%;
+    background-color: blanchedalmond;
+}
+
+.button {
+   top: 200px;
+   background-color: red;
+   color: white;
+   width: 200px;
+   height: 80px;
+   font-size: x-large;
+}
